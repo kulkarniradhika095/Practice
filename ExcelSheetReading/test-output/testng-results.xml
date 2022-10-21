@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-17T12:48:19 IST" name="Default suite" finished-at="2022-09-17T12:48:27 IST" duration-ms="7485">
+    <groups>
+    </groups>
+    <test started-at="2022-09-17T12:48:19 IST" name="Default test" finished-at="2022-09-17T12:48:27 IST" duration-ms="7485">
+      <class name="com.dataprovider.DataProviderDemo">
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The old Man and the sea]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ernest Hamingway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The sun also rises]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ernest Hamingway]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raavan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharad Tandale]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kosala]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bhalchandra Nemade]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Half Girlfriend]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chetan Bhagat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harry Potter and the Deathly hollows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[J.K.Rowling]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yayati]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[V.s.Khandekar]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Meluha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amish Tripathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Seeta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amish Tripathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Son of ikshvaku]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Amish Tripathi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m1(java.lang.String,java.lang.String)[pri:0, instance:com.dataprovider.DataProviderDemo@1a75e76a]" started-at="2022-09-17T12:48:27 IST" name="m1" data-provider="Book Data" finished-at="2022-09-17T12:48:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrutyunjay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shivaji Sawant]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+      </class> <!-- com.dataprovider.DataProviderDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+package com.dataprovider;
+
+//import org.testng.annotations.DataProvider;
+import org.testng.annotations.Test;
+ import com.dataproviders.Dataproviders;
+
+public class DataProviderDemo {
+	
+	@Test(dataProvider = "Book Data", dataProviderClass = Dataproviders.class)
+	public void m1(String bookTitle , String author) {
+		System.out.println("Book Title: "+bookTitle+"\t"+"Author: "+author+"..!");
+	}
+	
+	
+	
+}
+

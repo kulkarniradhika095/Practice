@@ -1,0 +1,34 @@
+package com.first;
+/**
+ * webElement Methods
+ * 1. click():void
+ * 2. submit():void
+ */
+import org.openqa.selenium.By;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+
+
+public class FindXPath {
+	
+	public static void main(String[] args) {
+		System.setProperty("webdriver.chrome.driver", "D:\\java\\Drivers\\chromedriver_win32\\chromedriver.exe");
+		ChromeDriver driver = new ChromeDriver();
+		driver.get("D:\\Not so frequently used\\Front end\\html\\First.html");
+		driver.findElement(By.xpath("(//button[@id='btn-1'])[1]")).click();
+		/*WebElement e = driver.findElement(By.xpath("(//button[@id='btn-1'])[1]"));
+		e.click();//click on any element , only ElementClickInterceptedException occurs if click command is taking some other input
+		
+		driver.findElement(By.xpath()).submit();
+		System.setProperty("webdriver.chrome.driver", "D:\\java\\Drivers\\chromedriver_win32\\chromedriver.exe");
+		ChromeDriver driver1 = new ChromeDriver();
+		driver1.get("http:www.google.com");
+		
+		driver1.findElement(By.xpath("/html/body/ntp-app//div/ntp-realbox//div/ntp-realbox-icon")).click();//click on any element
+		*/
+		System.setProperty("webdriver.chrome.driver", "D:\\java\\Drivers\\chromedriver_win32\\chromedriver.exe");
+		ChromeDriver driver1 = new ChromeDriver();
+		driver1.get("D:\\Not so frequently used\\Front end\\html\\Second.html");
+		driver1.findElement(By.xpath("(//button[@id='btn-1'])[1]")).submit();
+	}
+}

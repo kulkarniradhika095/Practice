@@ -1,0 +1,31 @@
+package packagea;
+import packageb.ClassC;
+
+public class ClassA{
+	
+	public int add(int x, int y) {
+		return x+y;
+
+	}
+		public static void main(String[] args) {
+			ClassA a = new ClassA();
+			a.add(10,20)
+			
+		
+		
+	}
+}
+
+//Access modifiers==>
+//public ==>  method variable(static/instance not local)and class and it can be called by using any object
+//Private==> method variable but not class(Class can never be private)
+//default==> accessible inside one package only, used for method, variable and class
+//main method always inside public class
+//protected==> accessible inside same package/child class, method and variable
+
+//visibility of access modifiers==> low to high is as follows:-
+/* 	private
+	default
+	protected
+	public		*/
+
