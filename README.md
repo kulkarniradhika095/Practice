@@ -1,2 +1,3 @@
 # Practice
-This repository contains all the files related to practice
+This repository contains all the files for practice purpose
+
